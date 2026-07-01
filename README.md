@@ -238,6 +238,18 @@ An interactive **2-page** executive dashboard built in Power BI Desktop.
 
 ---
 
+## 📋  Demo
+
+### Customer Overview Dashboard
+
+![]()
+
+---
+
+### Loyalty & Retention
+
+![]()
+
 ## 📚 Acknowledgements
 
 This project was built as a learning exercise following the **Data Analyst Complete Guide**, practising every stage of a real analytics workflow:
@@ -255,8 +267,9 @@ This project was built as a learning exercise following the **Data Analyst Compl
 
 ## 👤 Author
 
-**Kaif Ansari**  
-Aspiring Data Analyst | Python · SQL · Power BI
+**Mohd Kaif Ansari**<br>
+📧 Email: kaifansari1808@gmail.com<br>
+🔗 [Linkedin](https://www.linkedin.com/in/mohd-kaif-ansari/)<br>
 
 ---
 
