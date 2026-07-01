@@ -242,13 +242,13 @@ An interactive **2-page** executive dashboard built in Power BI Desktop.
 
 ### Customer Overview Dashboard
 
-![]()
+![](https://github.com/Kaif2596/Consumer-Behavior-Analysis/blob/main/image01.png)
 
 ---
 
 ### Loyalty & Retention
 
-![]()
+![](https://github.com/Kaif2596/Consumer-Behavior-Analysis/blob/main/image02.png)
 
 ## 📚 Acknowledgements
 
